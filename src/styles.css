@@ -1,11 +1,1 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
 
-.Card {
-  transform: 1s linear;
-}
-.Card:hover {
-  transform: scaleY(1);
-}
